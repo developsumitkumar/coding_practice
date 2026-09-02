@@ -16,4 +16,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/developsumitkumar/coding_practice/tree/master/0511-game-play-analysis-i) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/developsumitkumar/coding_practice/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/developsumitkumar/coding_practice/tree/master/0619-biggest-single-number) |
+| [1341-movie-rating](https://github.com/developsumitkumar/coding_practice/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
